@@ -17,10 +17,11 @@
     console.log(value1);
     var value2 = input2.value;
     console.log(value2);
-    var solution = value1 + value2;
+    var solution = value1 * value2;
     console.log(solution);
 
-convert value to numbers parse int or Number
+
+//convert value to numbers parse int or Number
 
   console.log ('this is making my head hurt');
     // numbers
