@@ -7,7 +7,7 @@
       answer = document.getElementById('answer');
 
 
-  // button1 = document.getElementById('num_one').value;
+
 
   //get the value of the name input
 
@@ -20,17 +20,27 @@
     var solution = value1 * value2;
     console.log(solution);
 
+    answer.innerHTML = value1 * value2;
 
 //convert value to numbers parse int or Number
 
   console.log ('this is making my head hurt');
-    // numbers
-    // math (*,+,-,/)
-    // value of the numbers
 
-  //  var adder = new function("a", "b", "return a + b");
 
-  //  adder(2, 6);
+// document.getElementById('calculateBTN').onclick = function () {
+
+  //value for input one
+
+  //var value1 = document.getElementById('num_one').value;
+  //var value1_num = Number(value1);
+    //value for input two
+      //var value2 = document.getElementById('num_two').value;
+      //var value2_num = Number(value2);
+      //add the two values together
+      //var sum = value1_num + value2_num;
+      //document.getElementById('answer'.innerHTML = sum;
+}
+
 
 
   // //add the name value to some greeting
