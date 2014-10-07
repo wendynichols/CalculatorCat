@@ -26,7 +26,7 @@
 
   console.log ('this is making my head hurt');
 
-
+};
 // document.getElementById('calculateBTN').onclick = function () {
 
   //value for input one
@@ -39,7 +39,7 @@
       //add the two values together
       //var sum = value1_num + value2_num;
       //document.getElementById('answer'.innerHTML = sum;
-}
+
 
 
 
@@ -51,6 +51,3 @@
   //
   // //spit the content of my greeting into that area
   // greeting_area.innerHTML = greeting;
-
-
-  };
